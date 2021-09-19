@@ -156,7 +156,7 @@ text through the text editing buttons associated with the field."></unicode>
                <instance class="exe.engine.field.TextField">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <int value="245"></int>
+                 <int value="250"></int>
                  <string role="key" value="_idevice"></string>
                  <none></none>
                  <string role="key" value="_instruc"></string>
@@ -170,7 +170,7 @@ text through the text editing buttons associated with the field."></unicode>
                 </dictionary>
                </instance>
                <string role="key" value="_id"></string>
-               <unicode value="5_85.0"></unicode>
+               <unicode value="5_85.1"></unicode>
                <string role="key" value="_imageResource"></string>
                <instance class="exe.engine.resource.Resource" reference="5">
                 <dictionary>
@@ -181,7 +181,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="homework-2521144_640.jpg"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="/tmp/tmp49o3os.eXe/previews/allyourbase/homework-2521144_640.jpg"></string>
+                 <string value="/tmp/tmpXcKolF/homework-2521144_640.jpg"></string>
                  <string role="key" value="checksum"></string>
                  <string value="5351d6ca6018f3bd0675f8f243118f39"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -210,7 +210,7 @@ text through the text editing buttons associated with the field."></unicode>
           <string role="key" value="intlinks_to_anchors"></string>
           <dictionary></dictionary>
           <string role="key" value="nextImageId"></string>
-          <int value="1"></int>
+          <int value="2"></int>
           <string role="key" value="parentNode"></string>
           <reference key="4"></reference>
          </dictionary>
@@ -257,7 +257,7 @@ text through the text editing buttons associated with the field."></unicode>
      <string role="key" value="exportType"></string>
      <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Home"></string>
+     <string value="exe-node:Inicio"></string>
      <string role="key" value="parent"></string>
      <none></none>
      <string role="key" value="children"></string>
@@ -370,16 +370,7 @@ as these can tend to be ambiguous."></unicode>
                 <string role="key" value="class_"></string>
                 <string value="block question"></string>
                 <string role="key" value="content_w_resourcePaths"></string>
-                <unicode content="true" value="&lt;p&gt;
-&lt;script type=&quot;text/javascript&quot;&gt; 
-    $(window).load(function(){
-  $.each([0,1,2,3], function(index , value ) {
-       $(&quot;p.toggle-idevice a&quot;).eq(value).click();
-      })
-});
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;h2&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Pregunta&lt;/span&gt;&lt;/h2&gt;
+                <unicode content="true" value="&lt;h2&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Pregunta&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;El método científico es un &lt;strong&gt;conjunto de normas&lt;/strong&gt; que garantizan que los conocimientos adquiridos a través de ellas tienen un alto grado de confianza.&lt;/p&gt;
 &lt;p&gt;¿Cuál es el orden correcto de los pasos del método científico?&lt;/p&gt;"></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -404,7 +395,7 @@ as these can tend to be ambiguous."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="6"></reference>
                </dictionary>
               </instance>
               <string role="key" value="_id"></string>
@@ -459,7 +450,7 @@ do not want to provide a hint, leave this field blank."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="6"></reference>
                </dictionary>
               </instance>
               <string role="key" value="options"></string>
@@ -513,7 +504,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                         <instance class="exe.engine.field.TextField">
                          <dictionary>
                           <string role="key" value="_id"></string>
-                          <int value="235"></int>
+                          <int value="251"></int>
                           <string role="key" value="_idevice"></string>
                           <none></none>
                           <string role="key" value="_instruc"></string>
@@ -527,9 +518,9 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                          </dictionary>
                         </instance>
                         <string role="key" value="_id"></string>
-                        <unicode value="1_90.0"></unicode>
+                        <unicode value="1_90.1"></unicode>
                         <string role="key" value="_imageResource"></string>
-                        <instance class="exe.engine.resource.Resource" reference="28">
+                        <instance class="exe.engine.resource.Resource" reference="30">
                          <dictionary>
                           <string role="key" value="_idevice"></string>
                           <reference key="7"></reference>
@@ -538,7 +529,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                           <string role="key" value="_storageName"></string>
                           <string value="Pasos_Metodo_desordenados_error1.png"></string>
                           <string role="key" value="_userName"></string>
-                          <string value="/tmp/tmp49o3os.eXe/previews/allyourbase/Pasos_M\xc3\xa9todo_desordenados_error1.png"></string>
+                          <string value="/tmp/tmpXcKolF/Pasos_Metodo_desordenados_error1.png"></string>
                           <string role="key" value="checksum"></string>
                           <string value="710133df35ea18e915658782362bd181"></string>
                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -567,9 +558,9 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="intlinks_to_anchors"></string>
                    <dictionary></dictionary>
                    <string role="key" value="nextImageId"></string>
-                   <int value="1"></int>
+                   <int value="2"></int>
                    <string role="key" value="parentNode"></string>
-                   <reference key="4"></reference>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -619,7 +610,7 @@ for the other options."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="isCorrect"></string>
@@ -653,6 +644,8 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Los pasos del método científico son:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/Pasos_Metodo_desordenados_correcto.png&quot; alt=&quot;Pasos método científico&quot; width=&quot;966&quot; height=&quot;210&quot; /&gt;&lt;/p&gt;"></unicode>
@@ -675,7 +668,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                         <instance class="exe.engine.field.TextField">
                          <dictionary>
                           <string role="key" value="_id"></string>
-                          <int value="236"></int>
+                          <int value="248"></int>
                           <string role="key" value="_idevice"></string>
                           <none></none>
                           <string role="key" value="_instruc"></string>
@@ -689,7 +682,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                          </dictionary>
                         </instance>
                         <string role="key" value="_id"></string>
-                        <unicode value="1_209.0"></unicode>
+                        <unicode value="1_209.1"></unicode>
                         <string role="key" value="_imageResource"></string>
                         <instance class="exe.engine.resource.Resource" reference="29">
                          <dictionary>
@@ -700,7 +693,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                           <string role="key" value="_storageName"></string>
                           <string value="Pasos_Metodo_desordenados_correcto.png"></string>
                           <string role="key" value="_userName"></string>
-                          <string value="/tmp/tmp49o3os.eXe/previews/allyourbase/Pasos_M\xc3\xa9todo_desordenados_correcto.png"></string>
+                          <string value="/tmp/tmpXcKolF/Pasos_Metodo_desordenados_correcto.png"></string>
                           <string role="key" value="checksum"></string>
                           <string value="9d30ef9e3476a91b83065cf81d56e72c"></string>
                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -729,9 +722,9 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="intlinks_to_anchors"></string>
                    <dictionary></dictionary>
                    <string role="key" value="nextImageId"></string>
-                   <int value="1"></int>
+                   <int value="2"></int>
                    <string role="key" value="parentNode"></string>
-                   <reference key="4"></reference>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -755,6 +748,8 @@ for the other options."></unicode>
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -777,7 +772,7 @@ for the other options."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="isCorrect"></string>
@@ -811,6 +806,8 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Los pasos del método científico son:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/Pasos_Metodo_desordenados_error2.png&quot; alt=&quot;Pasos método científico&quot; width=&quot;962&quot; height=&quot;208&quot; /&gt;&lt;/p&gt;"></unicode>
@@ -833,7 +830,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                         <instance class="exe.engine.field.TextField">
                          <dictionary>
                           <string role="key" value="_id"></string>
-                          <int value="237"></int>
+                          <int value="246"></int>
                           <string role="key" value="_idevice"></string>
                           <none></none>
                           <string role="key" value="_instruc"></string>
@@ -847,9 +844,9 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                          </dictionary>
                         </instance>
                         <string role="key" value="_id"></string>
-                        <unicode value="1_212.0"></unicode>
+                        <unicode value="1_212.1"></unicode>
                         <string role="key" value="_imageResource"></string>
-                        <instance class="exe.engine.resource.Resource" reference="30">
+                        <instance class="exe.engine.resource.Resource" reference="28">
                          <dictionary>
                           <string role="key" value="_idevice"></string>
                           <reference key="7"></reference>
@@ -858,7 +855,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                           <string role="key" value="_storageName"></string>
                           <string value="Pasos_Metodo_desordenados_error2.png"></string>
                           <string role="key" value="_userName"></string>
-                          <string value="/tmp/tmp49o3os.eXe/previews/allyourbase/Pasos_M\xc3\xa9todo_desordenados_error2.png"></string>
+                          <string value="/tmp/tmpXcKolF/Pasos_Metodo_desordenados_error2.png"></string>
                           <string role="key" value="checksum"></string>
                           <string value="772f1674c14ccdd255f2426c7d447f91"></string>
                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -887,9 +884,9 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="intlinks_to_anchors"></string>
                    <dictionary></dictionary>
                    <string role="key" value="nextImageId"></string>
-                   <int value="1"></int>
+                   <int value="2"></int>
                    <string role="key" value="parentNode"></string>
-                   <reference key="4"></reference>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -913,6 +910,8 @@ for the other options."></unicode>
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Las hipótesis deben de ser respondidas por el experimento.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -937,7 +936,7 @@ for the other options."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="isCorrect"></string>
@@ -966,6 +965,8 @@ as these can tend to be ambiguous."></unicode>
                 <unicode value="Question"></unicode>
                 <string role="key" value="anchor_names"></string>
                 <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
                 <string role="key" value="class_"></string>
                 <string value="block question"></string>
                 <string role="key" value="content_w_resourcePaths"></string>
@@ -993,7 +994,7 @@ as these can tend to be ambiguous."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="6"></reference>
                </dictionary>
               </instance>
               <string role="key" value="_id"></string>
@@ -1022,6 +1023,8 @@ do not want to provide a hint, leave this field blank."></unicode>
                 <unicode value="Hint"></unicode>
                 <string role="key" value="anchor_names"></string>
                 <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
                 <unicode content="true" value=""></unicode>
                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1044,7 +1047,7 @@ do not want to provide a hint, leave this field blank."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="6"></reference>
                </dictionary>
               </instance>
               <string role="key" value="options"></string>
@@ -1074,6 +1077,8 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Referirse a una situación real o realizable.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1098,7 +1103,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1122,6 +1127,8 @@ for the other options."></unicode>
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1144,7 +1151,7 @@ for the other options."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="isCorrect"></string>
@@ -1178,6 +1185,8 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Su enunciado mediante variables debe ser claro y concreto.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1202,7 +1211,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1226,6 +1235,8 @@ for the other options."></unicode>
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1248,7 +1259,7 @@ for the other options."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="isCorrect"></string>
@@ -1282,6 +1293,8 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Puede involucrar variables que no son magnitudes&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1306,7 +1319,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1330,6 +1343,8 @@ for the other options."></unicode>
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Si no se pueden medir, no se pueden comparar con las demás y por tanto no puede formar parte de una &lt;strong&gt;hipótesis&lt;/strong&gt;.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1354,7 +1369,7 @@ for the other options."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="isCorrect"></string>
@@ -1388,6 +1403,8 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;La relación entre las variables debe ser observable y medible.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1412,7 +1429,7 @@ by clicking the red &quot;X&quot; next to the Option."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1436,6 +1453,8 @@ for the other options."></unicode>
                    <unicode value="Feedback"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value=""></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1458,7 +1477,7 @@ for the other options."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="6"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="isCorrect"></string>
@@ -1533,7 +1552,7 @@ completed."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
@@ -1620,7 +1639,7 @@ ser ambiguas."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="6"></reference>
                </dictionary>
               </instance>
               <string role="key" value="feedbackTextArea"></string>
@@ -1662,7 +1681,7 @@ Este campo se puede dejar vacío. Si este campo está vacío se ofrecerá la ret
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="6"></reference>
                </dictionary>
               </instance>
               <string role="key" value="hintTextArea"></string>
@@ -1703,7 +1722,7 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="6"></reference>
                </dictionary>
               </instance>
               <string role="key" value="idevice"></string>
@@ -1798,6 +1817,8 @@ estudiante a responder la pregunta."></unicode>
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-sortableList&quot;&gt;&lt;p class=&quot;exe-sortableList-instructions&quot;&gt;Ordena los pasos del método científico:&lt;/p&gt;&lt;ul class=&quot;exe-sortableList-list&quot;&gt;&lt;li&gt;Leyes y teorías&lt;/li&gt;&lt;li&gt;Hipótesis&lt;/li&gt;&lt;li&gt;Experimento&lt;/li&gt;&lt;li&gt;Publicación&lt;/li&gt;&lt;li&gt;Observación&lt;/li&gt;&lt;li&gt;Análisis de resultados&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;display:none&quot;&gt;&lt;p class=&quot;exe-sortableList-buttonText&quot;&gt;Comprobar&lt;/p&gt;&lt;p class=&quot;exe-sortableList-rightText&quot;&gt;¡Correcto!&lt;/p&gt;&lt;p class=&quot;exe-sortableList-wrongText&quot;&gt;No es correcto... Respuesta correcta:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1822,7 +1843,7 @@ estudiante a responder la pregunta."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="6"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1895,7 +1916,7 @@ estudiante a responder la pregunta."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
@@ -1946,7 +1967,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
              <string role="key" value="otras"></string>
              <unicode value="observación | leyes | teorías"></unicode>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="6"></reference>
              <string role="key" value="parts"></string>
              <list>
               <tuple>
@@ -2027,7 +2048,7 @@ click on the 'Hide/Show' button below.&lt;/p&gt;"></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="icon"></string>
@@ -2164,7 +2185,7 @@ as these can tend to be ambiguous."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="42"></reference>
                </dictionary>
               </instance>
               <string role="key" value="_correctAnswerInstruc"></string>
@@ -2227,7 +2248,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                         <instance class="exe.engine.field.TextField">
                          <dictionary>
                           <string role="key" value="_id"></string>
-                          <int value="238"></int>
+                          <int value="252"></int>
                           <string role="key" value="_idevice"></string>
                           <none></none>
                           <string role="key" value="_instruc"></string>
@@ -2241,9 +2262,9 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                          </dictionary>
                         </instance>
                         <string role="key" value="_id"></string>
-                        <unicode value="2_114.0"></unicode>
+                        <unicode value="2_114.1"></unicode>
                         <string role="key" value="_imageResource"></string>
-                        <instance class="exe.engine.resource.Resource" reference="55">
+                        <instance class="exe.engine.resource.Resource" reference="57">
                          <dictionary>
                           <string role="key" value="_idevice"></string>
                           <reference key="43"></reference>
@@ -2252,7 +2273,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                           <string role="key" value="_storageName"></string>
                           <string value="Pasos_Metodo_desordenados_error1.png"></string>
                           <string role="key" value="_userName"></string>
-                          <string value="/tmp/tmp49o3os.eXe/previews/allyourbase/Pasos_M\xc3\xa9todo_desordenados_error1.png"></string>
+                          <string value="/tmp/tmpXcKolF/Pasos_Metodo_desordenados_error1.png"></string>
                           <string role="key" value="checksum"></string>
                           <string value="710133df35ea18e915658782362bd181"></string>
                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2281,9 +2302,9 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value="intlinks_to_anchors"></string>
                    <dictionary></dictionary>
                    <string role="key" value="nextImageId"></string>
-                   <int value="1"></int>
+                   <int value="2"></int>
                    <string role="key" value="parentNode"></string>
-                   <reference key="4"></reference>
+                   <reference key="42"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -2311,6 +2332,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Los pasos del método científico son:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/Pasos_Metodo_desordenados_correcto.png&quot; alt=&quot;Pasos método científico&quot; width=&quot;966&quot; height=&quot;210&quot; /&gt;&lt;/p&gt;"></unicode>
@@ -2333,7 +2356,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                         <instance class="exe.engine.field.TextField">
                          <dictionary>
                           <string role="key" value="_id"></string>
-                          <int value="239"></int>
+                          <int value="249"></int>
                           <string role="key" value="_idevice"></string>
                           <none></none>
                           <string role="key" value="_instruc"></string>
@@ -2347,7 +2370,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                          </dictionary>
                         </instance>
                         <string role="key" value="_id"></string>
-                        <unicode value="2_226.0"></unicode>
+                        <unicode value="2_226.1"></unicode>
                         <string role="key" value="_imageResource"></string>
                         <instance class="exe.engine.resource.Resource" reference="56">
                          <dictionary>
@@ -2358,7 +2381,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                           <string role="key" value="_storageName"></string>
                           <string value="Pasos_Metodo_desordenados_correcto.png"></string>
                           <string role="key" value="_userName"></string>
-                          <string value="/tmp/tmp49o3os.eXe/previews/allyourbase/Pasos_M\xc3\xa9todo_desordenados_correcto.png"></string>
+                          <string value="/tmp/tmpXcKolF/Pasos_Metodo_desordenados_correcto.png"></string>
                           <string role="key" value="checksum"></string>
                           <string value="9d30ef9e3476a91b83065cf81d56e72c"></string>
                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2387,9 +2410,9 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value="intlinks_to_anchors"></string>
                    <dictionary></dictionary>
                    <string role="key" value="nextImageId"></string>
-                   <int value="1"></int>
+                   <int value="2"></int>
                    <string role="key" value="parentNode"></string>
-                   <reference key="4"></reference>
+                   <reference key="42"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -2417,6 +2440,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Los pasos del método científico son:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/Pasos_Metodo_desordenados_error2.png&quot; alt=&quot;Pasos método científico&quot; width=&quot;962&quot; height=&quot;208&quot; /&gt;&lt;/p&gt;"></unicode>
@@ -2439,7 +2464,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                         <instance class="exe.engine.field.TextField">
                          <dictionary>
                           <string role="key" value="_id"></string>
-                          <int value="240"></int>
+                          <int value="247"></int>
                           <string role="key" value="_idevice"></string>
                           <none></none>
                           <string role="key" value="_instruc"></string>
@@ -2453,9 +2478,9 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                          </dictionary>
                         </instance>
                         <string role="key" value="_id"></string>
-                        <unicode value="2_227.0"></unicode>
+                        <unicode value="2_227.1"></unicode>
                         <string role="key" value="_imageResource"></string>
-                        <instance class="exe.engine.resource.Resource" reference="57">
+                        <instance class="exe.engine.resource.Resource" reference="55">
                          <dictionary>
                           <string role="key" value="_idevice"></string>
                           <reference key="43"></reference>
@@ -2464,7 +2489,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                           <string role="key" value="_storageName"></string>
                           <string value="Pasos_Metodo_desordenados_error2.png"></string>
                           <string role="key" value="_userName"></string>
-                          <string value="/tmp/tmp49o3os.eXe/previews/allyourbase/Pasos_M\xc3\xa9todo_desordenados_error2.png"></string>
+                          <string value="/tmp/tmpXcKolF/Pasos_Metodo_desordenados_error2.png"></string>
                           <string role="key" value="checksum"></string>
                           <string value="772f1674c14ccdd255f2426c7d447f91"></string>
                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2493,9 +2518,9 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value="intlinks_to_anchors"></string>
                    <dictionary></dictionary>
                    <string role="key" value="nextImageId"></string>
-                   <int value="1"></int>
+                   <int value="2"></int>
                    <string role="key" value="parentNode"></string>
-                   <reference key="4"></reference>
+                   <reference key="42"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -2528,6 +2553,8 @@ as these can tend to be ambiguous."></unicode>
                 <unicode value="Question:"></unicode>
                 <string role="key" value="anchor_names"></string>
                 <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
                 <string role="key" value="content_w_resourcePaths"></string>
                 <unicode content="true" value="&lt;div id=&quot;taquestion1_214&quot; class=&quot;block question iDevice_content&quot;&gt;
 &lt;h2&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Pregunta&lt;/span&gt;&lt;/h2&gt;
@@ -2555,7 +2582,7 @@ as these can tend to be ambiguous."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <none></none>
+                <reference key="42"></reference>
                </dictionary>
               </instance>
               <string role="key" value="_correctAnswerInstruc"></string>
@@ -2594,6 +2621,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Referirse a una situación real o realizable.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2618,7 +2647,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="42"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -2646,6 +2675,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Su enunciado mediante variables debe ser claro y concreto.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2670,7 +2701,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="42"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -2698,6 +2729,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;Puede involucrar variables que no son magnitudes.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2722,7 +2755,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="42"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -2750,6 +2783,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <unicode value="Option"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;La relación entre las variables debe ser observable y medible.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2774,7 +2809,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="42"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="idevice"></string>
@@ -2865,7 +2900,7 @@ text through the text editing buttons associated with the field."></unicode>
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="42"></reference>
             </dictionary>
            </instance>
            <string role="key" value="edit"></string>
@@ -2936,7 +2971,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="42"></reference>
+  <reference key="6"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -4112,13 +4147,13 @@ text through the text editing buttons associated with the field."></unicode>
    </list>
    <string role="key" value="710133df35ea18e915658782362bd181"></string>
    <list>
-    <reference key="28"></reference>
-    <reference key="55"></reference>
+    <reference key="30"></reference>
+    <reference key="57"></reference>
    </list>
    <string role="key" value="772f1674c14ccdd255f2426c7d447f91"></string>
    <list>
-    <reference key="30"></reference>
-    <reference key="57"></reference>
+    <reference key="28"></reference>
+    <reference key="55"></reference>
    </list>
    <string role="key" value="9d30ef9e3476a91b83065cf81d56e72c"></string>
    <list>
